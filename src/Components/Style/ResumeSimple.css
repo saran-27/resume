@@ -1,0 +1,87 @@
+/* Main Layout */
+.resume-wrapper.clean {
+  display: flex;
+  width: 80%;
+  margin: 30px auto;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+  font-family: "Poppins", sans-serif;
+  background: #fff;
+}
+
+/* Sidebar (No colors, simple border) */
+.clean-sidebar {
+      width: 30%;
+    color: chocolate;
+    background: darkslategrey;
+    padding: 25px;
+    border-right: 1px solid #ccc;
+}
+
+.clean-sidebar h3 {
+  border-bottom: 1px solid #aaa;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+/* Profile */
+.profile h1 {
+    margin: 0;
+    font-size: 30px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+
+}
+.role {
+     margin-top: 5px;
+        font-size: 18px;
+    color: whitesmoke;
+    font-weight: 800;
+}
+
+/* Sidebar list */
+.sidebar-section ul {
+  padding-left: 20px;
+}
+.sidebar-section li {
+  margin: 5px 0;
+}
+
+/* Main Content */
+.clean-main {
+  width: 70%;
+  padding: 25px;
+}
+
+.clean-main h2 {
+  color: black;
+  border-bottom: 2px solid #000;
+  padding-bottom: 3px;
+  text-transform: capitalize;
+  margin-bottom: 10px;
+}
+
+.project h3 {
+     margin: 5px 0;
+    color: #333;
+    font-weight: 800;
+    font-size: 18px;
+}
+a {
+    text-decoration: none;
+    font-size: 15px;
+        color: cornsilk;
+}
+a:hover{
+  color: chocolate;
+}
+.profile {
+    margin-top: 20px;
+}
+section {
+  margin-bottom: 25px;
+}
+h2{
+  border-bottom: 1px solid #aaa;
+}
