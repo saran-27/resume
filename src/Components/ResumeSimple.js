@@ -9,7 +9,7 @@ function Resume() {
       <div className="sidebar clean-sidebar">
         <div className="profile">
           <h1>Saravanan PM</h1>
-          <p className="role">Full-Stack Developer</p>
+          <p className="role">Full-Stack Web Developer</p>
         </div>
 
         <div className="sidebar-section">
